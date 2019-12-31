@@ -37,7 +37,7 @@ function makeColors() {
 }
 
 //stop color change
-
+//onclick in button
 function stopTextColor() {
     clearInterval(intervalID);
   }
